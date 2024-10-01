@@ -37,7 +37,7 @@ Here’s the rephrased version of your description for the **GearontheGo** React
    ```
 
 6. You should now be able to see and interact with the app on your device.
-7. Test App Live!
+7. Test App Live! https://appetize.io/app/b_b22ktc2pszgguhccrlcfc4dd5m
 
 ---
 
