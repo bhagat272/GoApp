@@ -8,12 +8,12 @@ Here’s the rephrased version of your description for the **GearontheGo** React
 
 1. Clone the repository:
    ```terminal
-   git clone "https://github.com/bhagat272/GearontheGoApp.git"
+   git clone "https://github.com/bhagat272/GoApp"
    ```
 
 2. Navigate to the project directory:
    ```terminal
-   cd GearontheGoApp
+   cd GoApp
    ```
 
 3. Install the necessary dependencies:
