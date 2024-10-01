@@ -3,7 +3,9 @@
  */
 
 import {AppRegistry} from 'react-native';
-import App from './App';
+import index from './src/index';
 import {name as appName} from './app.json';
+import 'react-native-reanimated';
 
-AppRegistry.registerComponent(appName, () => App);
+
+AppRegistry.registerComponent(appName, () => index);
